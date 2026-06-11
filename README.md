@@ -1,9 +1,8 @@
 
-https://github.com/user-attachments/assets/68a0f60f-5818-4208-9a2c-c7c2f28d4694
-
-https://github.com/user-attachments/assets/e5e6e592-4cb3-4bb5-9f8b-80d9466bbd08
-
-
+<div align="center">
+<img src="unfold.gif">
+</br>
+</div>
 
 <!--
 **Augustifolia/Augustifolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
