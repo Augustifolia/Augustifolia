@@ -1,7 +1,7 @@
 
 <div align="center">
-<img src="4d_cube.gif">
-<img src="unfold.gif">
+  <a href="https://github.com/Augustifolia/Hypercubes"><img src="4d_cube.gif"></a>
+  <a href="https://github.com/Augustifolia/Hypercubes"><img src="unfold.gif"></a>
 </br>
 </div>
 
